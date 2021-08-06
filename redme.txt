@@ -1,0 +1,40 @@
+'''
+  "Address": {
+    "Type": "Delivery",
+    "Name": "Rob",
+    "NameCont": "",
+    "AddressLine1": "86 The Esplanade",
+    "AddressLine2": "021 535 378",
+    "AddressLine3": "Wellington",
+    "AddressLine4": 6023,
+    "AddressLine5": [
+      "Wellington",
+      "New Zealand"
+    ]
+  }
+
+
+              "shipping_address": {
+                  "first_name": "Rob",
+                  /////////////////////////"address1": "86 The Esplanade",
+                  "phone": "021 535 378",
+                  //////////////////////////"city": "Wellington",
+                  "zip": "6023",
+                  "province": "Wellington",
+                  "country": "New Zealand",
+                  "last_name": "Edward",
+                  //////////////////////////"address2": "Houghton Bay",
+                  "company": "Scuba Equipment Servicing Limited",
+                  "latitude": -41.3415004,
+                  "longitude": 174.7847241,
+                  /////////////////////////////"name": "Rob Edward",
+                  "country_code": "NZ",
+                  "province_code": "WGN"
+              },
+
+  '''
+
+
+
+
+  

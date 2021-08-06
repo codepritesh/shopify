@@ -1,0 +1,53 @@
+<Documents>
+    <Document>
+        <Company>ENL</Company>
+        <Department>SHOW</Department>
+        <Type description="Customer Order">CORD</Type>
+        <CustomerOrderID>3868757852349</CustomerOrderID>
+        <DocumentDescription>rob@technicaldiving.co.nz</DocumentDescription>
+        <Status>Open</Status>
+        <PartDelv>Yes</PartDelv>
+        <DelvMethod>Standard Shipping</DelvMethod>
+        <PartInvc>Yes</PartInvc>
+        <Owner>Rob</Owner>
+        <Customer>Rob</Customer>
+        <Location>Wellington</Location>
+        <DocKey1 type="EMPS">WEB</DocKey1>
+        <DocKey2 type="EMPL">WEB</DocKey2>
+        <Addresses>
+            <Address>
+                <Type>Delivery</Type>
+                <Name>Rob</Name>
+                <NameCont/>
+                <AddressLine1>86 The Esplanade</AddressLine1>
+                <AddressLine2>021 535 378</AddressLine2>
+                <AddressLine3>Wellington</AddressLine3>
+                <AddressLine4>6023 </AddressLine4>
+                <AddressLine5>Wellington</AddressLine5>
+                <AddressLine6>New Zealand</AddressLine6>
+            </Address>
+
+        </Addresses>
+        <Date>20210601</Date>
+        <DueDate></DueDate>
+        <OpenDate></OpenDate>
+        <RequiredDate></RequiredDate>
+        <TaxCode>GST</TaxCode>
+        <TaxType>Excl</TaxType>
+        <TaxRate>0.15</TaxRate>
+        <CurrencyCode>NZD</CurrencyCode>
+        <ExchangeRate>1</ExchangeRate>
+        <LineItems>
+            <LineItem>
+                <LineType>Stck</LineType>
+                <ItemType></ItemType>
+                <ItemCode>NGT-1-USB</ItemCode>
+                <Unit>Each</Unit>
+                <Quantity>1</Quantity>
+                <Pack>Y</Pack>
+                <SubTotal>330.00</SubTotal>
+                <BuildPack>Yes</BuildPack>
+            </LineItem>
+        </LineItems>
+    </Document>
+</Documents>

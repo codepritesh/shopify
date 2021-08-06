@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Documents type="dict">
+	<Document type="dict">
+		<Company type="str">ENL</Company>
+		<Department type="str">SHOW</Department>
+		<Type type="str">CORD</Type>
+		<CustomerOrderID type="int">2556828188735</CustomerOrderID>
+		<DocumentDescription type="str">rob@technicaldiving.co.nz</DocumentDescription>
+		<Status type="str">Open</Status>
+		<PartDelv type="str">Yes</PartDelv>
+		<DelvMethod type="str">Standard Shipping</DelvMethod>
+		<PartInvc type="str">Yes</PartInvc>
+		<Owner type="str">Rob</Owner>
+		<Customer type="str">Rob</Customer>
+		<Location type="str">Wellington</Location>
+		<DocKey1 type="str">WEB</DocKey1>
+		<DocKey2 type="str">WEB</DocKey2>
+		<Addresses type="dict">
+			<Address type="dict">
+				<Type type="str">Delivery</Type>
+				<Name type="str">aaron robinson</Name>
+				<NameCont type="str"></NameCont>
+				<AddressLine1 type="str">30 Parkes Road</AddressLine1>
+				<AddressLine2 type="str"></AddressLine2>
+				<AddressLine3 type="str">Blenheim</AddressLine3>
+				<AddressLine4 type="str">Marlborough</AddressLine4>
+				<AddressLine5 type="str">New Zealand</AddressLine5>
+				<AddressLine6 type="str">7283</AddressLine6>
+			</Address>
+		</Addresses>
+		<Date type="str">20200917</Date>
+		<DueDate type="str"></DueDate>
+		<OpenDate type="str"></OpenDate>
+		<RequiredDate type="str"></RequiredDate>
+		<TaxCode type="str">GST</TaxCode>
+		<TaxType type="str">Excl</TaxType>
+		<TaxRate type="float">0.15</TaxRate>
+		<CurrencyCode type="str">NZD</CurrencyCode>
+		<ExchangeRate type="int">1</ExchangeRate>
+		<LineItems type="list">
+			<LineItem>
+				<LineType type="str">Stck</LineType>
+				<ItemType type="str">STCK</ItemType>
+				<ItemCode type="str">CAP-FURUNO</ItemCode>
+				<Unit type="str">Each</Unit>
+				<Quantity type="int">1</Quantity>
+				<Pack type="str">Y</Pack>
+				<SubTotal type="str">18.00</SubTotal>
+				<BuildPack type="str">Yes</BuildPack>
+			</LineItem>
+			<LineItem>
+				<LineType type="str">Stck</LineType>
+				<ItemType type="str">STCK</ItemType>
+				<ItemCode type="str">TSHIRT-FUR-MAR-L</ItemCode>
+				<Unit type="str">Each</Unit>
+				<Quantity type="int">1</Quantity>
+				<Pack type="str">Y</Pack>
+				<SubTotal type="str">43.00</SubTotal>
+				<BuildPack type="str">Yes</BuildPack>
+			</LineItem>
+		</LineItems>
+	</Document>
+</Documents>
